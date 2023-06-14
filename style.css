@@ -1,0 +1,25 @@
+.Blog{
+    color: white;
+     background-color: black;
+     border-radius: 15px;
+     border: 9px solid rgb(221, 224, 5);
+     margin: 25px 10px 8px 7px;
+     padding:20px;
+     text-align: center;
+ }
+ span{
+     color: red;
+ }
+ .blog-text{
+     text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-weight: 800;
+ }
+ .blog-p{
+     text-align: justify;
+     font-family: 'Times New Roman', Times, serif;
+
+ }
+ .Viral{
+     color: rgb(231, 0, 0);
+ }
